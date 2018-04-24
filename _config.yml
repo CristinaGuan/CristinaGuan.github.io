@@ -1,8 +1,8 @@
 # Site settings
 title:  Cristina_Guan Blog
 SEOTitle: Cristina_Guan的博客 | GXY Blog
-header-img: img/post-bg-desk.jpg
-email:guanxiaoyan1314@gmail.com
+header-img: ''
+#email: guanxiaoyan1314@gmail.com
 description: "Every failure is leading towards success."
 keyword: "GXY, Cristina_Guan Blog, 官小彦的博客,官小彦, guanxy, guanxiaoyan,官官, iOS, Apple, iPhone"
 url: "https://cristinaguan.github.io/"          # your host, for absolute URL
@@ -21,7 +21,7 @@ RSS: false
 # weibo_username:   妮子--彦
 zhihu_username:     Cristina
 github_username:    CristinaGuan
-facebook_username:  Guan Yan
+#facebook_username:  Guan Yan
 jianshu_username:   81b0f45e8a7d
 #twitter_username:   ''
 
