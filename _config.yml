@@ -12,13 +12,13 @@ github_repo: "https://github.com/CristinaGuan/CristinaGuan.github.io.git" # you 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar:img/avatar-m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+#sidebar-avatar:img/avatar-m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:   妮子--彦
+weibo_username:   妮子--彦
 zhihu_username:     Cristina
 github_username:    CristinaGuan
 #facebook_username:  Guan Yan
