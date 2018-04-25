@@ -1,7 +1,7 @@
 # Site settings
 title:  Cristina_Guan Blog
 SEOTitle: Cristina_Guan的博客 | GXY Blog
-header-img: img/post-bg-rwd.jpg
+header-img: img/home-bg-1.jpg
 email: guanxiaoyan1314@gmail.com
 description: "The harder the more fortunate, more confident more beautiful."
 keyword: "GXY, Cristina_Guan Blog, 官小彦的博客,官小彦, guanxy, guanxiaoyan,官官, iOS, Apple, iPhone"
@@ -56,18 +56,18 @@ kramdown:
 
 
 # 评论系统
-Disqus（https://disqus.com/）
-disqus_username: Cristina_Guan
+#Disqus（https://disqus.com/）
+#disqus_username: Cristina_Guan
 
 # Gitalk
 #gitalk:
-  #enable: true    #是否开启Gitalk评论
-  #clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  #clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  #repo: qiubaiying.github.io    #仓库名称
-  #owner: qiubaiying    #github用户名
-  #admin: qiubaiying
-  #distractionFreeMode: true #是否启用类似FB的阴影遮罩
+  enable: true    #是否开启Gitalk评论
+  clientID: bf4923bd9fa0950bac1e                           #生成的clientID
+  clientSecret: e0785b8e3b8e69d8d331a52594fd4413c2b45fc7    #生成的clientSecret
+  repo: CristinaGuan.github.io    #仓库名称
+  owner: CristinaGuan    #github用户名
+  admin: CristinaGuan
+  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # 统计
