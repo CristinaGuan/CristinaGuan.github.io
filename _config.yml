@@ -3,7 +3,7 @@ title:  Cristina_Guan Blog
 SEOTitle: Cristina_Guan的博客 | GXY Blog
 header-img: img/post-bg-rwd.jpg
 email: guanxiaoyan1314@gmail.com
-description: "Every failure is leading towards success."
+description: "The harder the more fortunate, more confident more beautiful."
 keyword: "GXY, Cristina_Guan Blog, 官小彦的博客,官小彦, guanxy, guanxiaoyan,官官, iOS, Apple, iPhone"
 url: "https://cristinaguan.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,7 +11,7 @@ github_repo: "https://github.com/CristinaGuan/CristinaGuan.github.io.git" # you 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "The harder the more fortunate, more confident more beautiful!"
 sidebar-avatar: img/me1.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -56,8 +56,8 @@ kramdown:
 
 
 # 评论系统
-#Disqus（https://disqus.com/）
-#disqus_username: Cristina_Guan
+Disqus（https://disqus.com/）
+disqus_username: Cristina_Guan
 
 # Gitalk
 #gitalk:
